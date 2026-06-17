@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: symphonyltdmvc1
+    env: docker
+    plan: free
